@@ -1,0 +1,31 @@
+-- definicion de librerias y paquetes
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+--Definicion de la entidad
+   entity Selector is 
+	port (sel:in STD_LOGIC;
+			D:in STD_LOGIC_VECTOR(3 downto 0);
+			y: in STD_LOGIC_VECTOR( 3 downto 0);
+			mPC: out STD_LOGIC_VECTOR(3 downto 0));
+			
+	end Selector;
+
+--Definicion de la arquitectura
+	architecture comportamiento of Selector is 
+	begin 
+	
+	process ( sel, D, mPC )
+	begin 
+	 case sel is 
+	
+		when "0" => y <= D;
+		When others => y <= mPC;
+
+		y <=D 	 when "0" ;
+		y <=mPC  	When "1"	;
+	end case;
+	end process;			
+	end comportamiento;

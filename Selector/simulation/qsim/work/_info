@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/C_milo Andres/Documents/quartus_projects/Selector/simulation/qsim
+Eselector
+Z0 w1638244147
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 PDz30Zoj;e1JEj1l7dCiT1
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx8 cyclonev 19 cyclonev_components 0 22 O_kVZAFaN7XDl67flUT[n1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 ;`SHL]^j4UaADA9ENAN^]0
+Z8 dC:/Users/tooro/Documents/Universidad/Digitales II/Selector/simulation/qsim
+Z9 8Selector.vho
+Z10 FSelector.vho
+l0
+L36
+VCkzf?_Cj9NG5>X<aI_CFX2
+!s100 jXCBGO6OYDZn`97O]XHb=1
+Z11 OV;C;10.5b;63
+32
+Z12 !s110 1638244148
+!i10b 1
+Z13 !s108 1638244148.000000
+Z14 !s90 -work|work|Selector.vho|
+Z15 !s107 Selector.vho|
+!i113 1
+Z16 o-work work
+Z17 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 8 selector 0 22 Ckzf?_Cj9NG5>X<aI_CFX2
+l99
+L61
+VV9HGd23c>fUTEL_TQ?f;a2
+!s100 _?ji^97Z^3:::5f[SNR1?3
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Eselector_vhd_vec_tst
+Z18 w1638244145
+R5
+R6
+R8
+Z19 8Waveform2.vwf.vht
+Z20 FWaveform2.vwf.vht
+l0
+L31
+VMX:G5RO=P@iiR>_4c=a3f1
+!s100 m7ki5K]>`OX<lBdO1LdF51
+R11
+32
+R12
+!i10b 1
+R13
+Z21 !s90 -work|work|Waveform2.vwf.vht|
+Z22 !s107 Waveform2.vwf.vht|
+!i113 1
+R16
+R17
+Aselector_arch
+R5
+R6
+Z23 DEx4 work 20 selector_vhd_vec_tst 0 22 MX:G5RO=P@iiR>_4c=a3f1
+l48
+L33
+Z24 V^n;U7zFFj740MjI5JjBVS0
+Z25 !s100 ZSKZlK6`9[7C;AUnR<K730
+R11
+32
+R12
+!i10b 1
+R13
+R21
+R22
+!i113 1
+R16
+R17

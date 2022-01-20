@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/tooro/Documents/Universidad/Digitales II/Guia4intento3/simulation/qsim
+vsumador1bit
+Z1 !s110 1636665452
+!i10b 1
+!s100 eUFoR3hELof;`dIdaAYe_2
+IIUYi68SnE<6^PW]a9_I9W3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1636665448
+8sumador1bit.vo
+Fsumador1bit.vo
+L0 31
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1636665452.000000
+!s107 sumador1bit.vo|
+!s90 -work|work|sumador1bit.vo|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vsumador1bit_vlg_vec_tst
+R1
+!i10b 1
+!s100 [A=7HmL?WGK;>Io9fgMjc0
+ID]oJA:n;RCJH?DZUFcPeQ2
+R2
+R0
+w1636665446
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R3
+r1
+!s85 0
+31
+R4
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R5
+R6

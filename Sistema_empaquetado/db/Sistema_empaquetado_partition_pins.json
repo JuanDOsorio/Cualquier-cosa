@@ -1,0 +1,105 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "display[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display[5]",
+					"strict" : false
+				},
+				{
+					"name" : "display[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display[0]",
+					"strict" : false
+				},
+				{
+					"name" : "control",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "teclado[8]",
+					"strict" : false
+				},
+				{
+					"name" : "teclado[7]",
+					"strict" : false
+				},
+				{
+					"name" : "teclado[6]",
+					"strict" : false
+				},
+				{
+					"name" : "teclado[5]",
+					"strict" : false
+				},
+				{
+					"name" : "teclado[4]",
+					"strict" : false
+				},
+				{
+					"name" : "teclado[3]",
+					"strict" : false
+				},
+				{
+					"name" : "teclado[2]",
+					"strict" : false
+				},
+				{
+					"name" : "teclado[1]",
+					"strict" : false
+				},
+				{
+					"name" : "teclado[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sensor",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

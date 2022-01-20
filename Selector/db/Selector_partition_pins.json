@@ -1,0 +1,61 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "out1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sel",
+					"strict" : false
+				},
+				{
+					"name" : "mPC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "D[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mPC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "D[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mPC[2]",
+					"strict" : false
+				},
+				{
+					"name" : "D[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mPC[3]",
+					"strict" : false
+				},
+				{
+					"name" : "D[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,11 @@
+|sumador1bit_V2
+A => Aux_1.IN0
+A => Aux_2.IN0
+B => Aux_1.IN1
+B => Aux_2.IN1
+C_IN => Aux_3.IN1
+C_IN => Suma.IN1
+Suma << Suma.DB_MAX_OUTPUT_PORT_TYPE
+Acarreo << Acarreo.DB_MAX_OUTPUT_PORT_TYPE
+
+

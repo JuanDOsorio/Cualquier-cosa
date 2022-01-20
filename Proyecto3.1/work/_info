@@ -1,0 +1,74 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Aplicaciones/Quartus
+Ecompuerta_and
+Z0 w1637265615
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/tooro/Documents/Universidad/Digitales II/Proyecto3.1
+Z6 8C:/Users/tooro/Documents/Universidad/Digitales II/Proyecto3.1/compuerta_and.vhd
+Z7 FC:/Users/tooro/Documents/Universidad/Digitales II/Proyecto3.1/compuerta_and.vhd
+l0
+L6
+VE7NNo;e;[De3j7>l]`E7e3
+!s100 Jd4]l3W0l`92kjS6D]]j13
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1637265620
+!i10b 1
+Z10 !s108 1637265620.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tooro/Documents/Universidad/Digitales II/Proyecto3.1/compuerta_and.vhd|
+Z12 !s107 C:/Users/tooro/Documents/Universidad/Digitales II/Proyecto3.1/compuerta_and.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 13 compuerta_and 0 22 E7NNo;e;[De3j7>l]`E7e3
+l14
+L13
+VXHM]kH>Ci^Qjl4z8gC]J:2
+!s100 Snonc>CZBf6P<QNQP]bDh0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etestbench
+w1637264995
+R3
+R4
+R5
+8C:/Users/tooro/Documents/Universidad/Digitales II/Proyecto3.1/testbench_compuerta_and.vhd
+FC:/Users/tooro/Documents/Universidad/Digitales II/Proyecto3.1/testbench_compuerta_and.vhd
+l0
+L5
+Ve9dH3hZhRC`_`UXQZbZbb1
+!s100 DAM66B:k5jJRgH1oWoH3m1
+R8
+32
+R9
+!i10b 1
+R10
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tooro/Documents/Universidad/Digitales II/Proyecto3.1/testbench_compuerta_and.vhd|
+!s107 C:/Users/tooro/Documents/Universidad/Digitales II/Proyecto3.1/testbench_compuerta_and.vhd|
+!i113 1
+R13
+R14

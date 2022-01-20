@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Suma",
+					"strict" : false
+				},
+				{
+					"name" : "Acarreo",
+					"strict" : false
+				},
+				{
+					"name" : "A",
+					"strict" : false
+				},
+				{
+					"name" : "B",
+					"strict" : false
+				},
+				{
+					"name" : "C_IN",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

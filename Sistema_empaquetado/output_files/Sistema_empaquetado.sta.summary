@@ -1,0 +1,69 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'sensor'
+Slack : -3.692
+TNS   : -14.741
+
+Type  : Slow 1100mV 85C Model Hold 'sensor'
+Slack : 0.550
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.166
+TNS   : -51.510
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sensor'
+Slack : -0.724
+TNS   : -4.428
+
+Type  : Slow 1100mV 0C Model Setup 'sensor'
+Slack : -3.854
+TNS   : -15.391
+
+Type  : Slow 1100mV 0C Model Hold 'sensor'
+Slack : 0.591
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.166
+TNS   : -51.457
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sensor'
+Slack : -0.724
+TNS   : -4.548
+
+Type  : Fast 1100mV 85C Model Setup 'sensor'
+Slack : -1.160
+TNS   : -4.614
+
+Type  : Fast 1100mV 85C Model Hold 'sensor'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -33.896
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sensor'
+Slack : -0.080
+TNS   : -0.320
+
+Type  : Fast 1100mV 0C Model Setup 'sensor'
+Slack : -1.081
+TNS   : -4.302
+
+Type  : Fast 1100mV 0C Model Hold 'sensor'
+Slack : 0.175
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -33.904
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sensor'
+Slack : -0.083
+TNS   : -0.332
+
+------------------------------------------------------------

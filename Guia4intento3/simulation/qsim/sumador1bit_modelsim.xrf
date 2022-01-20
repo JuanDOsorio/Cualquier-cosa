@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/tooro/Documents/Universidad/Digitales II/Guia4intento3/sumador1bit.bdf
+source_file = 1, C:/Users/tooro/Documents/Universidad/Digitales II/Guia4intento3/Waveform.vwf
+source_file = 1, C:/Users/tooro/Documents/Universidad/Digitales II/Guia4intento3/db/sumador1bit.cbx.xml
+design_name = sumador1bit
+instance = comp, \Suma~output , Suma~output, sumador1bit, 1
+instance = comp, \Acarreo~output , Acarreo~output, sumador1bit, 1
+instance = comp, \B~input , B~input, sumador1bit, 1
+instance = comp, \C_IN~input , C_IN~input, sumador1bit, 1
+instance = comp, \A~input , A~input, sumador1bit, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, sumador1bit, 1

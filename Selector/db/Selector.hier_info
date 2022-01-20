@@ -1,0 +1,19 @@
+|Selector
+sel => out1.OUTPUTSELECT
+sel => out1.OUTPUTSELECT
+sel => out1.OUTPUTSELECT
+sel => out1.OUTPUTSELECT
+D[0] => out1.DATAB
+D[1] => out1.DATAB
+D[2] => out1.DATAB
+D[3] => out1.DATAB
+mPC[0] => out1.DATAA
+mPC[1] => out1.DATAA
+mPC[2] => out1.DATAA
+mPC[3] => out1.DATAA
+out1[0] <= out1.DB_MAX_OUTPUT_PORT_TYPE
+out1[1] <= out1.DB_MAX_OUTPUT_PORT_TYPE
+out1[2] <= out1.DB_MAX_OUTPUT_PORT_TYPE
+out1[3] <= out1.DB_MAX_OUTPUT_PORT_TYPE
+
+
